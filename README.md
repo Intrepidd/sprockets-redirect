@@ -11,7 +11,7 @@ They will get redirected to:
 
     http://example.org/assets/application-faa42cf2fd5db7e7290baa07109bc82b.js
 
-This gem is designed to run on your staging or production environment, where you already precompile all your assets, turn on your asset digest, and turn of asset compilation. This is useful if you're having a static page or E-Mail which refers to static assets in the asset pipeline, which might be impossible and impractical for you to use an URL with a digest in it.
+This gem is designed to run on your staging or production environment, where you already precompile all your assets, turn on your asset digest, and turn off asset compilation. This is useful if you're having a static page or E-Mail which refers to static assets in the asset pipeline, which might be impossible and impractical for you to use an URL with a digest in it.
 
 
 Requirements
