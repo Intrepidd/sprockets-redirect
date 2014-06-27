@@ -5,3 +5,5 @@ tmp
 pkg
 *.gem
 *.rbc
+Gemfile.lock
+gemfiles/*.lock
